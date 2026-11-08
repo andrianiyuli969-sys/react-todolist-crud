@@ -1,5 +1,10 @@
 # TodoList React JS CRUD
-Aplikasi TodoList sederhana dengan fitur Create, Read, Update, dan Delete (CRUD) menggunakan React JS dan Vite.
+Aplikasi TodoList sederhana dengan fitur Create, Read, Update, dan Delete (CRUD) menggunakan React JS dan Vite. Untuk file tugasnya bernama 
+- TaskForm1.jsx
+- TaskList1.jsx
+- App1.jsx
+- main1.jsx
+
 
 - **Nama:** Yuli Andriani
 - **NIM:** 2511501042
