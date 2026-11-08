@@ -12,6 +12,8 @@ Aplikasi TodoList sederhana dengan fitur Create, Read, Update, dan Delete (CRUD)
 - Edit tugas
 - Hapus tugas
 - Filter tugas sesuai priority
+- cari tugas
+
 
 
 ## Tampilan
