@@ -12,7 +12,6 @@ Edit tugas
 Hapus tugas
 filter tugas sesuai priority
 
-
 ## Tampilan
 
 ### Halaman Utama
