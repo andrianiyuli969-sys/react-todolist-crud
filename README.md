@@ -1,3 +1,9 @@
+# Mahasiswa
+- **Nama:** Yuli Andriani
+- **NIM:** 2511501042
+- **Kelas:** A2
+
+
 # TodoList React JS CRUD
 Aplikasi TodoList sederhana dengan fitur Create, Read, Update, dan Delete (CRUD) menggunakan React JS dan Vite. Untuk file tugasnya bernama 
 - TaskForm1.jsx
@@ -5,10 +11,6 @@ Aplikasi TodoList sederhana dengan fitur Create, Read, Update, dan Delete (CRUD)
 - App1.jsx
 - main1.jsx
 
-
-- **Nama:** Yuli Andriani
-- **NIM:** 2511501042
-- **Kelas:** A2
 
 ## Fitur
 
